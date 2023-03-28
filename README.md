@@ -73,8 +73,8 @@
 <br>
 ## ❤ Views and Followers
   <p>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/M4STERR0SH1/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=M4STERR0SH1">
 </a>
-<a href="https://github.com/RajAdwaita?tab=followers"><img src="https://img.shields.io/github/followers/M4STERR0SH1?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/M4STERR0SH1?tab=followers"><img src="https://img.shields.io/github/followers/M4STERR0SH1?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
