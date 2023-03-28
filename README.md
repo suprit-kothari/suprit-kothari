@@ -3,7 +3,7 @@
 <!-- </div> -->
 
 
-<h1> Hi! I'm Suprit Kothari! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hi! I'm Suprit Kothari! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 100px> </h1>
 
 <br>
 
